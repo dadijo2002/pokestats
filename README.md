@@ -43,4 +43,4 @@ Most of the prompting is very straight-forward. You will first be prompted to en
 - I might add functionality for that value or greater eventually for IVs
 - Shiny hunting addition
 - Shiny hunting/IV compatibility?
-
+- GUI if I get fancy enough skills lol
